@@ -58,6 +58,7 @@
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\target_image.xml" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
@@ -65,7 +66,7 @@
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="Assembly-UnityScript-Editor-firstpass">
- <HintPath>C:/Users/Pierr/Downloads/AR_Sample/AR_Sample/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Pierr/Documents/ARTemplateVuforia/AR_Sample/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -125,10 +126,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
- <HintPath>C:/Users/Pierr/Downloads/AR_Sample/AR_Sample/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>
+ <HintPath>C:/Users/Pierr/Documents/ARTemplateVuforia/AR_Sample/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
- <HintPath>C:/Users/Pierr/Downloads/AR_Sample/AR_Sample/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>C:/Users/Pierr/Documents/ARTemplateVuforia/AR_Sample/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
